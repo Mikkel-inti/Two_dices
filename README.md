@@ -22,5 +22,10 @@ Når alle kastene er slået, vil antallet af hændelser blive udskrevet til term
 2. Antallet af hændelser for hver sum vil efter 50.000 kast, bliver udskrevet i terminalen.
 
 ### Eksempel på udskrift
-<img width="645" height="337" alt="image" src="https://github.com/user-attachments/assets/b178d6bb-6874-4e70-8cdb-098cce0a582d" />
+
+
+<img width="634" height="328" alt="image" src="https://github.com/user-attachments/assets/e43646a1-32ff-4413-af1d-819233ad5123" />
+
+
+
 
