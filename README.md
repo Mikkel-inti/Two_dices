@@ -1,7 +1,8 @@
 # Two dice simulation
 
 Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**, 
-der implementerer en simulering af 50.000 kast/rolls med to terninger. 
+der implementerer en simulering af 50.000 kast/rolls med to terninger, hvor summen af kastet blive talt som en hændelse.
+Når alle kastene er slået, vil antallet af hændelser blive udskrevet til terminalen.    
 
 ## Filer
 - `dice_helpers.h` – **deklarering** af funktionerne *dice_sum* og *print_arr*.
