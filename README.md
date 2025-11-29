@@ -8,8 +8,6 @@ der implementerer en simulering af 50.000 kast/rolls med to terninger.
 - `dice_helpers.c` – **implementering** af funktionerne:  *dice_sum* og *print_arr*
 - `main.c` – **Samlet kørsel**, her defineres de 50.000 kast/rolls der skal bruges i simuleringen.
 
--  
-void print_arr(int arr[], size_t n)
 ### Funktioner
 - `int dice_sum(void)`
 - "Kaster" to terninger og summere dem. Returner int summen af kastet.
