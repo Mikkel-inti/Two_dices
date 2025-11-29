@@ -8,7 +8,7 @@ Når alle kastene er slået, vil antallet af hændelser blive udskrevet til term
 ## Filer
 - `dice_helpers.h` – **deklarering** af funktionerne *dice_sum* og *print_arr*.
 - `dice_helpers.c` – **implementering** af funktionerne:  *dice_sum* og *print_arr*
-- `main.c` – **Samlet kørsel**, her defineres de 50.000 kast/rolls der skal bruges i simuleringen.
+- `main.c` – **Samlet kørsel**, her defineres de 50.000 kast/rolls som bruges i simuleringen.
 
 ### Funktioner
 - `int dice_sum(void)`
